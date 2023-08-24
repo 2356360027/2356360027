@@ -1,8 +1,8 @@
 # 绣花锤头的空间/2356360027's SPACE
 <!--   my-ticker --> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+2356360027;+Welcome+to+My+Space!;In+this+little+blogosphere;I+will+share+with+you+my+favorite+topics+and+areas+of+passion;I+hope+this+place+will+bring+you+knowledge+and+pleasure+and+let+us+explore+together+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+2356360027;+Welcome+to+My+Space!;In+this+little+blogosphere;I+will+share+with+you+my+favorite+topics+and+areas+of+passion;I+hope+this+place+will+bring+you+knowledge+and+pleasure+and;let+us+explore+together+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=你+好+👋,+我+是+绣+花+锤+头+;+欢+迎+来+到+我+的+空+间+!;+在+这+个+小+小+的+博+客+世+界+里+;我+将+与+您+分+享+我+喜+爱+的+话+题+和+热+衷+的+领+域+;+希+望++这+个+地++方+能+够+为+您+带+来+知+识+和+愉+悦+;让+我+们+一++同+探+索+吧+！)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=你+好+👋,+我+是+绣+花+锤+头+;+欢+迎+来+到+我+的+空+间+!;+在+这+个+小+小+的+博+客+世+界+里+;我+将+与+您+分+享+我+喜+爱+的+话+题+和+热+衷+的+领+域+;+希+望+这+个+地+方+能+够+为+您+带+来+知+识+和+愉+悦+;让+我+们+一+同+探+索+吧+！)](https://git.io/typing-svg)
 
 
 ##  GitHub活动贪吃蛇/GitHub Activity Snake:
